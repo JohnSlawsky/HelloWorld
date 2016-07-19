@@ -8,6 +8,6 @@ A few github repository tests.
 
 This is a test of the emergency broadcasting system. This is only a test.
 
-If this were an actual emergeny, this message would be followed by 
+If this were an actual emergency, this message would be followed by 
 instructions and information.
  
